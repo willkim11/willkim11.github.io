@@ -726,27 +726,27 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "animated_will.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, DL, AI, Data Engineering, and more.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "I like to document my journey of exploring key papers in my field of interest, as well as share the insights and knowledge gained from them.",
+    link: "https://blogs.willkim.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle: "80, Myeongjigukje 2-ro, Gangseo-gu, Busan, Republic of Korea",
+    locality: "Busan",
+    country: "Republic of Korea",
+    region: "Busan",
+    postalCode: "46726",
+    streetAddress: "Myeongjigukje 2-ro",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/TPCBHrnpUh2ok2YN9",
   },
   phoneSection: {
     title: "",
