@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6570020f9f6ae590de938be4b92814bd",
+    "revision": "e5daf856736d6c87f9f6fa7deaab02e1",
     "url": "/index.html"
   },
   {
-    "revision": "1e274dd0a8252b6601fc",
-    "url": "/static/css/main.b367cab9.chunk.css"
+    "revision": "758a60b212acf7710590",
+    "url": "/static/css/main.de70d777.chunk.css"
   },
   {
-    "revision": "291f4a0d89f14722ecce",
-    "url": "/static/js/2.0b1cc61a.chunk.js"
+    "revision": "b1feabcd9cb5060456a9",
+    "url": "/static/js/2.46a9936b.chunk.js"
   },
   {
-    "revision": "1e274dd0a8252b6601fc",
-    "url": "/static/js/main.f879a6ad.chunk.js"
+    "revision": "758a60b212acf7710590",
+    "url": "/static/js/main.84ffb060.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
     "url": "/static/media/contactMail.5f915405.png"
+  },
+  {
+    "revision": "def4ff5848c3663b5bdcba15c035c5f9",
+    "url": "/static/media/dacon.def4ff58.svg"
   },
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
@@ -212,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/legato_logo.c597fbde.png"
   },
   {
+    "revision": "e17e3d09818324c238e8be8143b1b3db",
+    "url": "/static/media/logo-udemy.e17e3d09.svg"
+  },
+  {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
   },
@@ -238,6 +246,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "16b08315aca4881d04fcb126fb259931",
+    "url": "/static/media/scu.16b08315.svg"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
