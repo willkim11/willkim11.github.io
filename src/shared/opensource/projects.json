@@ -95,20 +95,6 @@
           "iconifyClass": "logos-python"
         }
       ]
-    },
-    {
-      "id": "-",
-      "name": "-",
-      "createdAt": "-",
-      "url": "-",
-      "description": "-",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
     }
   ]
 }
