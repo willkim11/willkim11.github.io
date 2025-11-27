@@ -23,6 +23,24 @@
       ]
     },
     {
+      "id": "image-generation-willkim11",
+      "name": "Image-Generation",
+      "createdAt": "2025-11-18T00:00:00Z",
+      "url": "https://github.com/willkim11/Image-Generation",
+      "description": "Stable Diffusion Image Generator - A Python script to generate high-quality images using Stable Diffusion XL (SDXL) 1.0 from text prompts",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "material-icon-theme:pytorch"
+        }
+      ]
+    },
+    {
       "id": "-",
       "name": "-",
       "createdAt": "-",
